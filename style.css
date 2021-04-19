@@ -59,16 +59,16 @@ body {
     grid-column: 2/3;
     grid-row: 2/3;
     border-radius: 1rem;
-    padding-left: 30px;
-
+    padding-left: 40px;
+    
 }
 
 .sign {
     width: 90%;
-    justify-self: center;
-    height: 30px;
+    height: 40px;
     border-radius: 5px;
     margin-top: 20px;
+    
 
 }
 
@@ -80,13 +80,19 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 5px;
+    border-style: none;
     justify-self: center;
 }
 
 .para2 {
     font-size: 8pt;
+    color: hsl(249, 10%, 26%);
     margin-top: 10px;
     text-align: center;
+}
+
+b {
+    color:hsl(0, 90%, 37%);
 }
 
 
